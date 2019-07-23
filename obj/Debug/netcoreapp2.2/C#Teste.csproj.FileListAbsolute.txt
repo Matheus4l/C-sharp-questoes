@@ -1,0 +1,11 @@
+/Applications/MAMP/htdocs/Projetos/Matheus/C#Teste/bin/Debug/netcoreapp2.2/C#Teste.deps.json
+/Applications/MAMP/htdocs/Projetos/Matheus/C#Teste/bin/Debug/netcoreapp2.2/C#Teste.runtimeconfig.json
+/Applications/MAMP/htdocs/Projetos/Matheus/C#Teste/bin/Debug/netcoreapp2.2/C#Teste.runtimeconfig.dev.json
+/Applications/MAMP/htdocs/Projetos/Matheus/C#Teste/bin/Debug/netcoreapp2.2/C#Teste.dll
+/Applications/MAMP/htdocs/Projetos/Matheus/C#Teste/bin/Debug/netcoreapp2.2/C#Teste.pdb
+/Applications/MAMP/htdocs/Projetos/Matheus/C#Teste/obj/Debug/netcoreapp2.2/C#Teste.csprojAssemblyReference.cache
+/Applications/MAMP/htdocs/Projetos/Matheus/C#Teste/obj/Debug/netcoreapp2.2/C#Teste.csproj.CoreCompileInputs.cache
+/Applications/MAMP/htdocs/Projetos/Matheus/C#Teste/obj/Debug/netcoreapp2.2/C#Teste.AssemblyInfoInputs.cache
+/Applications/MAMP/htdocs/Projetos/Matheus/C#Teste/obj/Debug/netcoreapp2.2/C#Teste.AssemblyInfo.cs
+/Applications/MAMP/htdocs/Projetos/Matheus/C#Teste/obj/Debug/netcoreapp2.2/C#Teste.dll
+/Applications/MAMP/htdocs/Projetos/Matheus/C#Teste/obj/Debug/netcoreapp2.2/C#Teste.pdb
