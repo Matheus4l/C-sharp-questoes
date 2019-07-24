@@ -5,6 +5,11 @@ namespace C_Teste
 {
     class Program
     {
+      
+      
+
+      
+      
         static void Main(string[] args)
         {
             int op; //auxilia na escolha do menu
@@ -76,7 +81,7 @@ namespace C_Teste
                                     }
 
                                     int[] arrays= list.ToArray();
-                                         Console.WriteLine(arrays);
+                                         
 
                                 break;
                             case 5:
