@@ -52,7 +52,21 @@ namespace C_Teste
 
                             case 2:
                                 Console.Clear();
-                                Console.WriteLine("Case 2");
+                                Console.WriteLine("1-Desatracar Vagão pela esquerda ");
+                                Console.WriteLine("2-Desatracar Vagão pela Direita ");
+                                  int lado2=Convert.ToInt32(Console.ReadLine());
+                                  Console.Clear();
+                                       if (lado2==1)
+                                       {
+                                          
+                                           trem.DesatracarLadoEsquerdo(); 
+                                       }else if(lado2==2)
+                                       {
+                                          
+                                           trem.DesatracarLadoDireito(); 
+                                       }else{
+                                           Console.WriteLine("Erro1 ");
+                                       }
                                 break;
                             case 3:
                                 Console.Clear();
@@ -79,9 +93,16 @@ namespace C_Teste
                                            if( condicaoParada=="2"){exec2=false;}
 
                                     }
-
-                                    int[] arrays= list.ToArray();
-                                         
+                                        Console.Clear();
+                                        int[] arrays= list.ToArray();
+                                        var  vetor= trem.countNuber(arrays);
+                                        string rows = "|";
+                                            foreach (int i in vetor)
+                                            {
+                                                rows +=i+"|";
+                                            }
+                                           
+                                            Console.WriteLine(rows);
 
                                 break;
                             case 5:

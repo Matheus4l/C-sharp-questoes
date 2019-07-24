@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Applications/MAMP/htdocs/Projetos/Matheus/C#Teste/C#Teste.csproj": {}
+    "/Applications/MAMP/htdocs/Projetos/Matheus/C#Teste/cSharpTeste/C#Teste.csproj": {}
   },
   "projects": {
-    "/Applications/MAMP/htdocs/Projetos/Matheus/C#Teste/C#Teste.csproj": {
+    "/Applications/MAMP/htdocs/Projetos/Matheus/C#Teste/cSharpTeste/C#Teste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Applications/MAMP/htdocs/Projetos/Matheus/C#Teste/C#Teste.csproj",
+        "projectUniqueName": "/Applications/MAMP/htdocs/Projetos/Matheus/C#Teste/cSharpTeste/C#Teste.csproj",
         "projectName": "C#Teste",
-        "projectPath": "/Applications/MAMP/htdocs/Projetos/Matheus/C#Teste/C#Teste.csproj",
+        "projectPath": "/Applications/MAMP/htdocs/Projetos/Matheus/C#Teste/cSharpTeste/C#Teste.csproj",
         "packagesPath": "/Users/mac3c/.nuget/packages/",
-        "outputPath": "/Applications/MAMP/htdocs/Projetos/Matheus/C#Teste/obj/",
+        "outputPath": "/Applications/MAMP/htdocs/Projetos/Matheus/C#Teste/cSharpTeste/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
