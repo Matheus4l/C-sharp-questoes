@@ -9,3 +9,14 @@
 /Applications/MAMP/htdocs/Projetos/Matheus/C#Teste/obj/Debug/netcoreapp2.2/C#Teste.AssemblyInfo.cs
 /Applications/MAMP/htdocs/Projetos/Matheus/C#Teste/obj/Debug/netcoreapp2.2/C#Teste.dll
 /Applications/MAMP/htdocs/Projetos/Matheus/C#Teste/obj/Debug/netcoreapp2.2/C#Teste.pdb
+/var/www/html/cSharpTeste/obj/Debug/netcoreapp2.2/C#Teste.csprojAssemblyReference.cache
+/var/www/html/cSharpTeste/obj/Debug/netcoreapp2.2/C#Teste.csproj.CoreCompileInputs.cache
+/var/www/html/cSharpTeste/obj/Debug/netcoreapp2.2/C#Teste.AssemblyInfoInputs.cache
+/var/www/html/cSharpTeste/obj/Debug/netcoreapp2.2/C#Teste.AssemblyInfo.cs
+/var/www/html/cSharpTeste/obj/Debug/netcoreapp2.2/C#Teste.dll
+/var/www/html/cSharpTeste/obj/Debug/netcoreapp2.2/C#Teste.pdb
+/var/www/html/cSharpTeste/bin/Debug/netcoreapp2.2/C#Teste.deps.json
+/var/www/html/cSharpTeste/bin/Debug/netcoreapp2.2/C#Teste.runtimeconfig.json
+/var/www/html/cSharpTeste/bin/Debug/netcoreapp2.2/C#Teste.runtimeconfig.dev.json
+/var/www/html/cSharpTeste/bin/Debug/netcoreapp2.2/C#Teste.dll
+/var/www/html/cSharpTeste/bin/Debug/netcoreapp2.2/C#Teste.pdb

@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/mac3c/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "/home/matheus4l/.nuget/packages/": {},
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Applications/MAMP/htdocs/Projetos/Matheus/C#Teste/C#Teste.csproj",
+      "projectUniqueName": "/var/www/html/cSharpTeste/C#Teste.csproj",
       "projectName": "C#Teste",
-      "projectPath": "/Applications/MAMP/htdocs/Projetos/Matheus/C#Teste/C#Teste.csproj",
-      "packagesPath": "/Users/mac3c/.nuget/packages/",
-      "outputPath": "/Applications/MAMP/htdocs/Projetos/Matheus/C#Teste/obj/",
+      "projectPath": "/var/www/html/cSharpTeste/C#Teste.csproj",
+      "packagesPath": "/home/matheus4l/.nuget/packages/",
+      "outputPath": "/var/www/html/cSharpTeste/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/mac3c/.nuget/NuGet/NuGet.Config"
+        "/home/matheus4l/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"

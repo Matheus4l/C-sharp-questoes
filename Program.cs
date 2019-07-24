@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using C_Teste.classes;
 namespace C_Teste
 {
@@ -17,7 +18,8 @@ namespace C_Teste
                     Console.WriteLine("1-Atracar Vagão");
                     Console.WriteLine("2-Desatracar Vagão");
                     Console.WriteLine("3-Visualizar Vagão");
-                    Console.WriteLine("4-Sair do Programa");
+                    Console.WriteLine("4-Ir Para o Desafio 2");
+                    Console.WriteLine("5-Sair do Programa");
                 
                 op  = Convert.ToInt32(Console.ReadLine()); //op recebe convertido para inteiro um valor digidado 
                 
@@ -41,10 +43,6 @@ namespace C_Teste
                                        }else{
                                            Console.WriteLine("Erro1 ");
                                        }
-
-
-
-                               
                                 break;
 
                             case 2:
@@ -64,7 +62,26 @@ namespace C_Teste
                                 break;
                             case 4:
                                 Console.Clear();
-                                Console.WriteLine("Até a Proxima !3");
+                                  List<int> list = new List<int>();
+                                  Console.WriteLine("----------Count Number----------");
+                                  bool exec2 =true;
+                                    while ( exec2==true)
+                                    {   
+                                         Console.WriteLine("Insirir numero \t");
+                                         list.Add( Convert.ToInt32(Console.ReadLine()) );
+                                         Console.WriteLine("Continuar Inserindo Sim[1] Não[2]\t");
+                                         string condicaoParada = Console.ReadLine();
+                                           if( condicaoParada=="2"){exec2=false;}
+
+                                    }
+
+                                    int[] arrays= list.ToArray();
+                                         Console.WriteLine(arrays);
+
+                                break;
+                            case 5:
+                                Console.Clear();
+                                Console.WriteLine("Até a Proxima !");
                                 exec=false;
                                 break;
                             default:
