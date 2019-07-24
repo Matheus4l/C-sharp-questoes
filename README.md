@@ -1,7 +1,7 @@
 # cSharpTeste
 Desafio 1 e 2 estão no mesmo programa
 
-#Rode o Programa com "dotnet run" , será executado no terminal o programa
+#Execute o Programa no terminal com o comando  "dotnet run".
 
 Será exibido um menu iterativo
 Escolha um opção digitando no teclado o numero correspondente ao menu
